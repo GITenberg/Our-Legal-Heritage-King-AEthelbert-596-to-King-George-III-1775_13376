@@ -1,0 +1,29 @@
+_repo: Our-Legal-Heritage-King-AEthelbert-596-to-King-George-III-1775_13376
+_version: 0.1.0
+alternative_title: Our Legal Heritage, 5th ed.
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reilly, S. A.
+    gutenberg_agent_id: '696'
+    url: http://www.gutenberg.org/2009/agents/696
+description: This book has undergone multiple editions, and is available as Project
+  Gutenberg eBook numbers 1694, 6603, 13376, 36299 and 40780.
+edition_note: 5th ed.
+gutenberg_bookshelf: British Law
+gutenberg_issued: '2004-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13376'
+language: en
+publication_note: 5th Edition published 2012
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'KD'
+- !lcsh 'Law -- England -- History'
+title: Our Legal Heritage, King AEthelbert, 596 to King George III, 1775
+url: http://www.gutenberg.org/ebooks/13376
